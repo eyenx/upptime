@@ -185,18 +185,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wallabag",
     "status": "down",
-    "uptime": "12.04%",
-    "uptimeDay": "12.04%",
-    "uptimeWeek": "12.04%",
-    "uptimeMonth": "12.04%",
-    "uptimeYear": "12.04%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 1877,
     "timeDay": 1877,
     "timeWeek": 1877,
     "timeMonth": 1877,
     "timeYear": 1877,
     "dailyMinutesDown": {
-      "2021-01-23": 1
+      "2021-01-23": 50
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://upptime.eyenx.ch",
     "icon": "https://favicons.githubusercontent.com/upptime.eyenx.ch",
     "slug": "upptime",
-    "status": "down",
-    "uptime": "2.82%",
-    "uptimeDay": "2.82%",
-    "uptimeWeek": "2.82%",
-    "uptimeMonth": "2.82%",
-    "uptimeYear": "2.82%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.25%",
+    "uptimeDay": "0.25%",
+    "uptimeWeek": "0.25%",
+    "uptimeMonth": "0.25%",
+    "uptimeYear": "0.25%",
+    "time": 114,
+    "timeDay": 114,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2021-01-23": 0
+      "2021-01-23": 50
     }
   }
 ]

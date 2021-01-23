@@ -1,28 +1,40 @@
-# Change these first
 owner: eyenx # Your GitHub username
 repo: upptime # Your GitHub repository name
 
-# Add your sites here
 sites:
   - name: Blog
     url: https://eyenx.ch
   - name: pub.eyenx.ch
     url: https://pub.eyenx.ch
+  - name: NextCloud
+    url: $SITE_NEXTCLOUD
+  - name: Git
+    url: $SITE_GIT
+  - name: Private CI
+    url: $SITE_CI
+  - name: Mail
+    url: $SITE_MAIL
+  - name: Container Registry
+    url: $SITE_CR
+  - name: Matrix
+    url: $SITE_MATRIX
+  - name: Whoogle
+    url: $SITE_WHOOGLE
+  - name: AUR Repo
+    url: https://aur.eyenx.ch
+  - name: Wallabag
+    url: $SITE_WB
+  - name: upptime
+    url: https://upptime.eyenx.ch
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
   cname: upptime.eyenx.ch
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/1947882?s=460&u=1754c8d2ff687c003d18f279f93217688d805346&v=4
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  introMessage: This is [eyenx's](https://github.com/eyenx/upptime) status page which uses **real-time** data from GitHub.
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+
+commitMessages:
+  commitAuthorName: "eyenx's upptime"
+  commitAuthorEmail: "upptime@eyenx.ch"

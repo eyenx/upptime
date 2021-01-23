@@ -21,7 +21,7 @@ sites:
   - name: Whoogle
     url: $SITE_WHOOGLE
   - name: AUR Repo
-    url: https://aur.eyenx.ch
+    url: https://aur.eyenx.ch/x86_64/eyenx.db.tar.gz
   - name: Wallabag
     url: $SITE_WB
   - name: upptime

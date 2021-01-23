@@ -29,7 +29,7 @@ sites:
 
 status-website:
   cname: upptime.eyenx.ch
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/1947882?s=460&u=1754c8d2ff687c003d18f279f93217688d805346&v=4
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is [eyenx's](https://github.com/eyenx/upptime) status page which uses **real-time** data from GitHub.

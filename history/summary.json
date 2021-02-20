@@ -96,9 +96,9 @@
     "url": "$SITE_MAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,16 +107,18 @@
     "timeWeek": 782,
     "timeMonth": 720,
     "timeYear": 720,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-20": 0
+    }
   },
   {
     "name": "Container Registry",
     "url": "$SITE_CR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "container-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,16 +127,18 @@
     "timeWeek": 664,
     "timeMonth": 573,
     "timeYear": 573,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-20": 0
+    }
   },
   {
     "name": "Matrix",
     "url": "$SITE_MATRIX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,16 +147,18 @@
     "timeWeek": 934,
     "timeMonth": 823,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-20": 0
+    }
   },
   {
     "name": "Whoogle",
     "url": "$SITE_WHOOGLE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "whoogle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -161,16 +167,18 @@
     "timeWeek": 765,
     "timeMonth": 697,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-20": 0
+    }
   },
   {
     "name": "AUR Repo",
     "url": "https://aur.eyenx.ch/x86_64/eyenx.db.tar.gz",
     "icon": "https://favicons.githubusercontent.com/aur.eyenx.ch",
     "slug": "aur-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,25 +187,28 @@
     "timeWeek": 769,
     "timeMonth": 665,
     "timeYear": 665,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-20": 0
+    }
   },
   {
     "name": "Wallabag",
     "url": "$SITE_WB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wallabag",
-    "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
     "time": 1228,
     "timeDay": 1268,
     "timeWeek": 1346,
     "timeMonth": 1228,
     "timeYear": 1228,
     "dailyMinutesDown": {
+      "2021-02-20": 0,
       "2021-01-23": 268
     }
   },
@@ -207,11 +218,11 @@
     "icon": "https://favicons.githubusercontent.com/upptime.eyenx.ch",
     "slug": "upptime",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.11%",
-    "uptimeYear": "99.11%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
     "time": 135,
     "timeDay": 180,
     "timeWeek": 217,

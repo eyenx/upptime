@@ -1,7 +1,7 @@
 url: https://aur.eyenx.ch/x86_64/eyenx.db.tar.gz
-status: up
-code: 200
-responseTime: 418
-lastUpdated: 2021-04-07T20:35:44.931Z
+status: down
+code: 404
+responseTime: 407
+lastUpdated: 2021-04-07T21:15:16.293Z
 startTime: Sat Jan 23 2021 16:46:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

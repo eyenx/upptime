@@ -33,6 +33,6 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/1947882?s=460&u=1754c8d2ff687c003d18f279f93217688d805346
   introTitle: "Welcome to my service status page which uses **real-time** data from [GitHub](https://github.com/eyenx/upptime)."
 
-commitMessages:
-  commitAuthorName: "eyenx's upptime"
-  commitAuthorEmail: "eye@eyenx.ch"
+    #commitMessages:
+  #  commitAuthorName: "eyenx's upptime"
+    #  commitAuthorEmail: "eye@eyenx.ch"

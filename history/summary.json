@@ -197,18 +197,19 @@
     "url": "https://aur.eyenx.ch/x86_64/eyenx.db.tar.gz",
     "icon": "https://favicons.githubusercontent.com/aur.eyenx.ch",
     "slug": "aur-repo",
-    "status": "up",
-    "uptime": "93.90%",
-    "uptimeDay": "88.26%",
-    "uptimeWeek": "88.41%",
-    "uptimeMonth": "88.02%",
-    "uptimeYear": "93.90%",
+    "status": "down",
+    "uptime": "93.93%",
+    "uptimeDay": "88.84%",
+    "uptimeWeek": "88.50%",
+    "uptimeMonth": "88.09%",
+    "uptimeYear": "93.93%",
     "time": 533,
-    "timeDay": 569,
-    "timeWeek": 568,
-    "timeMonth": 548,
+    "timeDay": 592,
+    "timeWeek": 555,
+    "timeMonth": 546,
     "timeYear": 533,
     "dailyMinutesDown": {
+      "2022-01-11": 0,
       "2022-01-10": 169,
       "2022-01-09": 165,
       "2022-01-08": 178,
@@ -317,8 +318,7 @@
       "2021-09-27": 135,
       "2021-09-26": 128,
       "2021-09-25": 133,
-      "2021-09-24": 129,
-      "2021-09-23": 137
+      "2021-09-24": 129
     }
   },
   {

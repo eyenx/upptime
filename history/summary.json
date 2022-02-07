@@ -4,10 +4,10 @@
     "url": "https://eyenx.ch",
     "icon": "https://favicons.githubusercontent.com/eyenx.ch",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 605,
@@ -16,6 +16,7 @@
     "timeMonth": 551,
     "timeYear": 600,
     "dailyMinutesDown": {
+      "2022-02-07": 1,
       "2021-03-01": 26
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://pub.eyenx.ch",
     "icon": "https://favicons.githubusercontent.com/pub.eyenx.ch",
     "slug": "pub-eyenx-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 512,
@@ -36,6 +37,7 @@
     "timeMonth": 475,
     "timeYear": 508,
     "dailyMinutesDown": {
+      "2022-02-07": 1,
       "2021-08-17": 37,
       "2021-03-01": 26
     }
@@ -45,10 +47,10 @@
     "url": "$SITE_NEXTCLOUD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 778,
@@ -57,6 +59,7 @@
     "timeMonth": 806,
     "timeYear": 776,
     "dailyMinutesDown": {
+      "2022-02-07": 1,
       "2021-03-01": 25
     }
   },
@@ -65,10 +68,10 @@
     "url": "$SITE_GIT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 638,
@@ -77,6 +80,7 @@
     "timeMonth": 594,
     "timeYear": 636,
     "dailyMinutesDown": {
+      "2022-02-07": 1,
       "2021-07-02": 19,
       "2021-03-01": 25
     }
@@ -86,10 +90,10 @@
     "url": "$SITE_CI",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "private-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 483,
@@ -98,6 +102,7 @@
     "timeMonth": 453,
     "timeYear": 480,
     "dailyMinutesDown": {
+      "2022-02-07": 1,
       "2021-07-02": 19,
       "2021-03-01": 24
     }
@@ -107,9 +112,9 @@
     "url": "$SITE_MAIL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -119,6 +124,7 @@
     "timeMonth": 590,
     "timeYear": 598,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2021-07-02": 18,
       "2021-03-01": 24,
       "2021-02-20": 27
@@ -129,9 +135,9 @@
     "url": "$SITE_CR",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "container-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -141,6 +147,7 @@
     "timeMonth": 449,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2021-07-02": 18,
       "2021-03-01": 24,
       "2021-02-20": 27
@@ -151,9 +158,9 @@
     "url": "$SITE_MATRIX",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
@@ -163,6 +170,7 @@
     "timeMonth": 663,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2021-07-13": 26,
       "2021-03-11": 259,
       "2021-03-01": 34,
@@ -175,9 +183,9 @@
     "url": "$SITE_WHOOGLE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "whoogle",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -187,6 +195,7 @@
     "timeMonth": 574,
     "timeYear": 583,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2021-03-01": 24,
       "2021-02-20": 27
     }
@@ -196,16 +205,16 @@
     "url": "https://aur.eyenx.ch/x86_64/eyenx.db.tar.gz",
     "icon": "https://favicons.githubusercontent.com/aur.eyenx.ch",
     "slug": "aur-repo",
-    "status": "up",
-    "uptime": "94.01%",
-    "uptimeDay": "86.88%",
+    "status": "down",
+    "uptime": "94.04%",
+    "uptimeDay": "87.38%",
     "uptimeWeek": "87.71%",
-    "uptimeMonth": "86.71%",
-    "uptimeYear": "93.77%",
+    "uptimeMonth": "86.72%",
+    "uptimeYear": "93.79%",
     "time": 531,
-    "timeDay": 518,
+    "timeDay": 543,
     "timeWeek": 501,
-    "timeMonth": 506,
+    "timeMonth": 505,
     "timeYear": 530,
     "dailyMinutesDown": {
       "2022-02-07": 181,
@@ -316,8 +325,7 @@
       "2021-10-25": 121,
       "2021-10-24": 138,
       "2021-10-23": 112,
-      "2021-10-22": 117,
-      "2021-10-21": 116
+      "2021-10-22": 117
     }
   },
   {
@@ -325,9 +333,9 @@
     "url": "$SITE_WB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wallabag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -337,6 +345,7 @@
     "timeMonth": 1142,
     "timeYear": 1149,
     "dailyMinutesDown": {
+      "2022-02-07": 0,
       "2021-07-02": 16,
       "2021-03-01": 24,
       "2021-02-20": 27

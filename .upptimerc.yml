@@ -18,8 +18,6 @@ sites:
     url: $SITE_CR
   - name: Matrix
     url: $SITE_MATRIX
-  - name: Whoogle
-    url: $SITE_WHOOGLE
   - name: Wallabag
     url: $SITE_WB
   - name: upptime

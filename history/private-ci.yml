@@ -1,7 +1,7 @@
 url: $SITE_CI
-status: up
-code: 200
-responseTime: 734
-lastUpdated: 2023-10-23T23:01:33.112Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-10-24T19:36:51.648Z
 startTime: 2021-01-23T16:46:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

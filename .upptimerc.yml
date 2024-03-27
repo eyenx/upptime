@@ -20,6 +20,8 @@ sites:
     url: $SITE_MATRIX
   - name: Wallabag
     url: $SITE_WB
+. - name: Immich
+.   url: $SITE_IMMICH
   - name: upptime
     url: https://status.eyenx.ch
 

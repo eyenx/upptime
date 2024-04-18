@@ -4,10 +4,10 @@
     "url": "https://eyenx.ch",
     "icon": "https://icons.duckduckgo.com/ip3/eyenx.ch.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 609,
@@ -15,17 +15,19 @@
     "timeWeek": 594,
     "timeMonth": 612,
     "timeYear": 610,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 1
+    }
   },
   {
     "name": "pub.eyenx.ch",
     "url": "https://pub.eyenx.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pub.eyenx.ch.ico",
     "slug": "pub-eyenx-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 563,
@@ -33,7 +35,9 @@
     "timeWeek": 495,
     "timeMonth": 537,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 1
+    }
   },
   {
     "name": "NextCloud",
@@ -61,9 +65,9 @@
     "url": "$SITE_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,16 +76,18 @@
     "timeWeek": 567,
     "timeMonth": 629,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Private CI",
     "url": "$SITE_CI",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "private-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -90,16 +96,18 @@
     "timeWeek": 619,
     "timeMonth": 789,
     "timeYear": 661,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Mail",
     "url": "$SITE_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -109,6 +117,7 @@
     "timeMonth": 599,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2024-04-18": 0,
       "2023-12-24": 31,
       "2023-08-31": 218,
       "2023-08-30": 520
@@ -119,9 +128,9 @@
     "url": "$SITE_CR",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "container-registry",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,16 +139,18 @@
     "timeWeek": 454,
     "timeMonth": 481,
     "timeYear": 504,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Matrix",
     "url": "$SITE_MATRIX",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -148,16 +159,18 @@
     "timeWeek": 711,
     "timeMonth": 730,
     "timeYear": 740,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Wallabag",
     "url": "$SITE_WB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "wallabag",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -166,7 +179,9 @@
     "timeWeek": 1165,
     "timeMonth": 1210,
     "timeYear": 1242,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-18": 0
+    }
   },
   {
     "name": "Immich",
@@ -174,11 +189,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "86.06%",
+    "uptime": "86.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.06%",
-    "uptimeYear": "86.06%",
+    "uptimeMonth": "86.25%",
+    "uptimeYear": "86.25%",
     "time": 1026,
     "timeDay": 740,
     "timeWeek": 844,

@@ -22,6 +22,8 @@ sites:
     url: $SITE_WB
   - name: Immich
     url: $SITE_IMMICH
+  - name: Jellyfin
+    url: $SITE_JELLYFIN
   - name: upptime
     url: https://status.eyenx.ch
 

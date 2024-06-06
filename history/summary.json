@@ -175,11 +175,11 @@
     "url": "$SITE_IMMICH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "95.71%",
-    "uptimeDay": "96.83%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "95.71%",
     "time": 838,
     "timeDay": 622,
@@ -187,6 +187,7 @@
     "timeMonth": 757,
     "timeYear": 838,
     "dailyMinutesDown": {
+      "2024-06-06": 1,
       "2024-06-05": 46,
       "2024-04-26": 21,
       "2024-04-25": 28,
@@ -201,9 +202,9 @@
     "url": "$SITE_JELLYFIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "98.05%",
+    "uptimeDay": "98.03%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
@@ -213,6 +214,7 @@
     "timeMonth": 993,
     "timeYear": 995,
     "dailyMinutesDown": {
+      "2024-06-06": 0,
       "2024-06-05": 28,
       "2024-04-26": 21
     }

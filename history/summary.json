@@ -63,9 +63,9 @@
     "url": "$SITE_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +74,9 @@
     "timeWeek": 669,
     "timeMonth": 631,
     "timeYear": 654,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-15": 0
+    }
   },
   {
     "name": "Private CI",
@@ -176,18 +178,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "96.20%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "96.20%",
+    "uptime": "96.23%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "96.23%",
     "time": 841,
     "timeDay": 879,
     "timeWeek": 834,
     "timeMonth": 783,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2024-06-15": 14,
       "2024-06-05": 46,
       "2024-04-26": 21,
       "2024-04-25": 28,

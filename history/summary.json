@@ -63,19 +63,19 @@
     "url": "$SITE_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 646,
-    "timeDay": 589,
-    "timeWeek": 669,
-    "timeMonth": 631,
+    "timeDay": 576,
+    "timeWeek": 655,
+    "timeMonth": 629,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 6
     }
   },
   {

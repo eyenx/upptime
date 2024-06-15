@@ -22,18 +22,20 @@
     "url": "https://pub.eyenx.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pub.eyenx.ch.ico",
     "slug": "pub-eyenx-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 592,
-    "timeWeek": 632,
-    "timeMonth": 568,
-    "timeYear": 569,
-    "dailyMinutesDown": {}
+    "time": 563,
+    "timeDay": 724,
+    "timeWeek": 660,
+    "timeMonth": 577,
+    "timeYear": 570,
+    "dailyMinutesDown": {
+      "2024-06-15": 0
+    }
   },
   {
     "name": "NextCloud",
@@ -65,18 +67,16 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 646,
     "timeDay": 576,
     "timeWeek": 655,
     "timeMonth": 629,
     "timeYear": 654,
-    "dailyMinutesDown": {
-      "2024-06-15": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Private CI",

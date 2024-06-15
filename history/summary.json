@@ -22,19 +22,19 @@
     "url": "https://pub.eyenx.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pub.eyenx.ch.ico",
     "slug": "pub-eyenx-ch",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 563,
-    "timeDay": 724,
-    "timeWeek": 660,
-    "timeMonth": 577,
-    "timeYear": 570,
+    "time": 564,
+    "timeDay": 851,
+    "timeWeek": 709,
+    "timeMonth": 593,
+    "timeYear": 571,
     "dailyMinutesDown": {
-      "2024-06-15": 0
+      "2024-06-15": 12
     }
   },
   {

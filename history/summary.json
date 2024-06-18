@@ -22,18 +22,20 @@
     "url": "https://pub.eyenx.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pub.eyenx.ch.ico",
     "slug": "pub-eyenx-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
+    "time": 564,
     "timeDay": 792,
     "timeWeek": 712,
     "timeMonth": 610,
     "timeYear": 572,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 2
+    }
   },
   {
     "name": "NextCloud",
@@ -63,9 +65,9 @@
     "url": "$SITE_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +76,9 @@
     "timeWeek": 773,
     "timeMonth": 667,
     "timeYear": 657,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-18": 0
+    }
   },
   {
     "name": "Private CI",
@@ -176,11 +180,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
     "status": "up",
-    "uptime": "96.33%",
+    "uptime": "96.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "96.33%",
+    "uptimeYear": "96.35%",
     "time": 840,
     "timeDay": 956,
     "timeWeek": 799,

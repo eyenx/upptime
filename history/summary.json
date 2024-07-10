@@ -22,27 +22,29 @@
     "url": "https://pub.eyenx.ch",
     "icon": "https://icons.duckduckgo.com/ip3/pub.eyenx.ch.ico",
     "slug": "pub-eyenx-ch",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 579,
+    "time": 578,
     "timeDay": 696,
     "timeWeek": 770,
     "timeMonth": 775,
     "timeYear": 590,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 1
+    }
   },
   {
     "name": "NextCloud",
     "url": "$SITE_NEXTCLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -52,6 +54,7 @@
     "timeMonth": 1215,
     "timeYear": 1117,
     "dailyMinutesDown": {
+      "2024-07-10": 0,
       "2024-06-05": 17,
       "2024-04-25": 30,
       "2023-10-01": 28,
@@ -63,9 +66,9 @@
     "url": "$SITE_GIT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,7 +77,9 @@
     "timeWeek": 692,
     "timeMonth": 730,
     "timeYear": 662,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-10": 0
+    }
   },
   {
     "name": "Private CI",
@@ -175,18 +180,19 @@
     "url": "$SITE_IMMICH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "97.09%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.10%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "97.09%",
+    "uptimeYear": "97.10%",
     "time": 828,
     "timeDay": 705,
     "timeWeek": 816,
     "timeMonth": 799,
     "timeYear": 828,
     "dailyMinutesDown": {
+      "2024-07-10": 0,
       "2024-07-07": 27,
       "2024-06-05": 46,
       "2024-04-26": 21,
@@ -202,9 +208,9 @@
     "url": "$SITE_JELLYFIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -214,6 +220,7 @@
     "timeMonth": 977,
     "timeYear": 986,
     "dailyMinutesDown": {
+      "2024-07-10": 0,
       "2024-06-05": 28,
       "2024-04-26": 21
     }

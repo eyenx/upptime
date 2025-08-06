@@ -1,7 +1,7 @@
 url: $SITE_WB
-status: down
-code: 404
-responseTime: 589
-lastUpdated: 2025-08-06T00:19:16.678Z
+status: up
+code: 200
+responseTime: 711
+lastUpdated: 2025-08-06T00:43:50.050Z
 startTime: 2021-01-23T16:46:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>

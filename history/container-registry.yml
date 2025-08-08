@@ -1,7 +1,7 @@
 url: $SITE_CR
-status: up
-code: 200
-responseTime: 712
-lastUpdated: 2025-08-08T00:50:33.469Z
+status: down
+code: 404
+responseTime: 6173
+lastUpdated: 2025-08-08T13:08:59.122Z
 startTime: 2021-01-23T16:46:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>

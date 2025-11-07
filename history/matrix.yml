@@ -1,7 +1,7 @@
 url: $SITE_MATRIX
-status: down
-code: 404
-responseTime: 543
-lastUpdated: 2025-11-07T07:32:47.112Z
+status: up
+code: 200
+responseTime: 893
+lastUpdated: 2025-11-07T07:40:53.508Z
 startTime: 2021-01-23T16:46:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -222,9 +222,9 @@
     "url": "$SITE_MAIL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -234,6 +234,7 @@
     "timeMonth": 724,
     "timeYear": 673,
     "dailyMinutesDown": {
+      "2025-12-22": 1,
       "2025-12-19": 29,
       "2025-05-03": 15
     }

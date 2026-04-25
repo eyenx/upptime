@@ -1,7 +1,7 @@
 url: $SITE_MAIL
-status: down
-code: 404
-responseTime: 340
-lastUpdated: 2026-04-25T03:41:37.695Z
+status: up
+code: 200
+responseTime: 608
+lastUpdated: 2026-04-25T06:41:52.565Z
 startTime: 2021-01-23T16:46:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: $SITE_CI
-status: down
-code: 404
-responseTime: 450
-lastUpdated: 2026-04-25T03:41:35.557Z
+status: up
+code: 200
+responseTime: 557
+lastUpdated: 2026-04-25T06:41:49.937Z
 startTime: 2021-01-23T16:46:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>

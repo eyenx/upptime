@@ -38,7 +38,7 @@ sites:
     url: $SITE_MAIL
     port: 993
     check: "tcp-ping"
-  - name: Mail 993
+  - name: Mail 995
     url: $SITE_MAIL
     port: 995
     check: "tcp-ping"

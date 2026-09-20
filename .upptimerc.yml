@@ -27,19 +27,19 @@ sites:
   - name: upptime
     url: https://status.eyenx.ch
   - name: Mail 465
-    url: $SITE_MAIL
+    url: $SITE_MAIL_TCP
     port: 465
     check: "tcp-ping"
   - name: Mail 587
-    url: $SITE_MAIL
+    url: $SITE_MAIL_TCP
     port: 587
     check: "tcp-ping"
   - name: Mail 993
-    url: $SITE_MAIL
+    url: $SITE_MAIL_TCP
     port: 993
     check: "tcp-ping"
   - name: Mail 995
-    url: $SITE_MAIL
+    url: $SITE_MAIL_TCP
     port: 995
     check: "tcp-ping"
 

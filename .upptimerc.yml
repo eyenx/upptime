@@ -1,6 +1,18 @@
 owner: eyenx # Your GitHub username
 repo: upptime # Your GitHub repository name
 
+secrets:
+  - SITE_NEXTCLOUD
+  - SITE_GIT
+  - SITE_CI
+  - SITE_MAIL
+  - SITE_CR
+  - SITE_MATRIX
+  - SITE_WB
+  - SITE_IMMICH
+  - SITE_JELLYFIN
+  - SITE_MAIL_TCP
+
 sites:
   - name: Blog
     url: https://eyenx.ch
@@ -26,6 +38,22 @@ sites:
     url: $SITE_JELLYFIN
   - name: upptime
     url: https://status.eyenx.ch
+  - name: Mail 465
+    url: $SITE_MAIL_TCP
+    port: 465
+    check: tcp-ping
+  - name: Mail 587
+    url: $SITE_MAIL_TCP
+    port: 587
+    check: tcp-ping
+  - name: Mail 993
+    url: $SITE_MAIL_TCP
+    port: 993
+    check: tcp-ping
+  - name: Mail 995
+    url: $SITE_MAIL_TCP
+    port: 995
+    check: tcp-ping
 
 status-website:
   cname: status.eyenx.ch

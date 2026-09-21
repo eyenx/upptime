@@ -38,6 +38,8 @@ sites:
     url: $SITE_JELLYFIN
   - name: upptime
     url: https://status.eyenx.ch
+  - name: Mail test
+    url: $TCP_MAIL
   - name: Mail 465
     url: $TCP_MAIL
     port: 465

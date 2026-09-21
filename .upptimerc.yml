@@ -11,7 +11,7 @@ secrets:
   - SITE_WB
   - SITE_IMMICH
   - SITE_JELLYFIN
-  - SITE_MAIL_TCP
+  - TCP_MAIL
 
 sites:
   - name: Blog
@@ -39,19 +39,19 @@ sites:
   - name: upptime
     url: https://status.eyenx.ch
   - name: Mail 465
-    url: ${SITE_MAIL_TCP}
+    url: $TCP_MAIL
     port: 465
     check: tcp-ping
   - name: Mail 587
-    url: ${SITE_MAIL_TCP}
+    url: $TCP_MAIL
     port: 587
     check: tcp-ping
   - name: Mail 993
-    url: ${SITE_MAIL_TCP}
+    url: $TCP_MAIL
     port: 993
     check: tcp-ping
   - name: Mail 995
-    url: ${SITE_MAIL_TCP}
+    url: $TCP_MAIL
     port: 995
     check: tcp-ping
 

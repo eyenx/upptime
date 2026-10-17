@@ -2,7 +2,7 @@ owner: eyenx # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 secrets:
-  - SITE_NEXTCLOUD
+  - SITE_FS
   - SITE_GIT
   - SITE_CI
   - SITE_MAIL
@@ -18,8 +18,8 @@ sites:
     url: https://eyenx.ch
   - name: pub.eyenx.ch
     url: https://pub.eyenx.ch
-  - name: NextCloud
-    url: $SITE_NEXTCLOUD
+  - name: FileStash
+    url: $SITE_FS
   - name: Git
     url: $SITE_GIT
   - name: Private CI

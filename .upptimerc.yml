@@ -26,8 +26,6 @@ sites:
     url: $SITE_CI
   - name: Mail
     url: $SITE_MAIL
-  - name: Container Registry
-    url: $SITE_CR
   - name: Matrix
     url: $SITE_MATRIX
   - name: Wallabag

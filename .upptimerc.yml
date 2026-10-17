@@ -4,9 +4,7 @@ repo: upptime # Your GitHub repository name
 secrets:
   - SITE_FS
   - SITE_GIT
-  - SITE_CI
   - SITE_MAIL
-  - SITE_CR
   - SITE_MATRIX
   - SITE_WB
   - SITE_IMMICH
@@ -22,8 +20,6 @@ sites:
     url: $SITE_FS
   - name: Git
     url: $SITE_GIT
-  - name: Private CI
-    url: $SITE_CI
   - name: Mail
     url: $SITE_MAIL
   - name: Matrix
